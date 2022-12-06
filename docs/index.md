@@ -6,7 +6,7 @@ hero:
     text: Design system.
     tagline: Design and develop clean, elegant, and performant Rebilly experiences.
     image:
-      src: poc-revel/images/revel.png
+      src: /images/revel.png
       alt: VitePress
     actions:
         - theme: brand

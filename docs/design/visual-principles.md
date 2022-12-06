@@ -14,7 +14,7 @@
         },
         {
             title: 'Typography',
-            route: '/design/typography',
+            route: '/poc-revel/design/typography',
             description: 'The foundational component to communicate and organize our information hierarchy.'
         },
         {
